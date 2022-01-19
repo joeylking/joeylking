@@ -3,9 +3,7 @@
 My name is Joey. I'm a (2x) full-stack bootcamp grad who loves the fusion of creativity and logic I've found in software development. I live in Austin, TX with my wife, kids, and dog.
 
 
-
-
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=joeylking.joeylking)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeylking&layout=compact&theme=radical)](https://github.com/joeylking/github-readme-stats)
 
 
