@@ -5,7 +5,17 @@
 My name is Joey. I'm a (2x) full-stack bootcamp grad who loves the fusion of creativity and logic I've found in software development. I live in Austin, TX with my wife, kids, and dog.
 
 
-Connect with me! 
+Connect with me! [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+
+<!-- Icons -->
+
+[1.2]: https://github.com/joeylking/joeylking/blob/main/images/twitter.png
+[2.2]: https://github.com/joeylking/joeylking/blob/main/images/linkedin.png
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/joey_king
+[2]: https://www.linkedin.com/in/joey-king/
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=joeylking.joeylking)
