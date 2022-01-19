@@ -5,7 +5,7 @@
 My name is Joey. I'm a (2x) full-stack bootcamp grad who loves the fusion of creativity and logic I've found in software development. I live in Austin, TX with my wife, kids, and dog.
 
 
-Connect with me! [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
+Connect with me!   [![Twitter][1.2]][1]   [![LinkedIn][2.2]][2]
 
 <!-- Icons -->
 
