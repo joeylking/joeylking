@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-My name is Joey. I'm a full-stack bootcamp grad who loves the fusion of creativity and logic I've found in software development. I live in Austin, TX with my wife, our 4 year old son, and our dog.
+My name is Joey. I'm a (2x) full-stack bootcamp grad who loves the fusion of creativity and logic I've found in software development. I live in Austin, TX with my wife, kids, and dog.
 
 
 
