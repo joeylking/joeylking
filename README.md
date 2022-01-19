@@ -8,6 +8,8 @@ My name is Joey. I'm a (2x) full-stack bootcamp grad who loves the fusion of cre
 Connect with me! 
 
 
+<img align="left" src="https://raw.githubusercontent.com/joeylking/joeylking/main/images/linkedin.svg" alt="Joey King LinkedIn” width="21px"/>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=joeylking.joeylking)
 
 
