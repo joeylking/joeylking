@@ -22,7 +22,7 @@ Connect with me!
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=joeylking.joeylking)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeylking&layout=compact&theme=radical)](https://github.com/joeylking/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeylking&layout=compact&theme=radical&count_private=true)](https://github.com/joeylking/github-readme-stats)
 
 
 <!--
