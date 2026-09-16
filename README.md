@@ -1,28 +1,32 @@
 ![banner v 1million (1)](https://user-images.githubusercontent.com/30815220/150207765-bf9a45dc-3685-422a-b2a9-1942e0cda170.jpg)
 
 ### Howdy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Joey King
 
-My name is Joey. I'm a (2x) full-stack bootcamp grad who loves the fusion of creativity and logic I've found in software development. I live in Austin, TX with my wife, kids, and dog.
+### Software engineer focused on automation, developer tooling, and technical delivery
 
+I build systems that turn ambiguous operational problems into reliable software and repeatable delivery. My background spans backend services, internal platforms, workflow automation, and cross-functional project leadership.
 
-Connect with me!
-[![LinkedIn][2.2]][2]         [![Twitter][1.2]][1]
+I am especially interested in work at the intersection of engineering, AI-assisted tooling, technical program management, and operations—where the job is not only to build the right system, but also to align the people and decisions required to ship it.
 
-<!-- Icons -->
+## Selected impact
 
-[1.2]: https://github.com/joeylking/joeylking/blob/main/images/twitter.png
-[2.2]: https://github.com/joeylking/joeylking/blob/main/images/linkedin.png
+* Led a first-place internal innovation project that used Go, ServiceNow, and GitLab workflows to automate vulnerability remediation while preserving approval and review controls.
+* Shipped Slack and email components for a production notification service designed to support software-delivery workflows across more than a dozen teams.
+* Built a FastAPI proof of concept that turned delivery data into actionable predictability, volatility, and cycle-time metrics.
+* Guided six engineering interns across two cohorts by setting priorities, reviewing merge requests, adjusting scope, and preparing teams for final presentations.
 
-<!-- Links to your social media accounts -->
+## Current focus
 
-[1]: https://twitter.com/joey_king
-[2]: https://www.linkedin.com/in/joey-king/
+* Agentic and AI-assisted developer tooling
+* Safe workflow automation with human approval and clear audit trails
+* Technical program and product-operations practices for moving work from discovery through launch
 
+## Background
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=joeylking.joeylking)
+I hold a B.S. in Computer Science and am completing an MBA in IT Management.
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeylking&layout=compact&theme=radical&count_private=true&langs_count=6)](https://github.com/joeylking/github-readme-stats)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/joey-king/)
 
 
 <!--
