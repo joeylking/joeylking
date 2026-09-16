@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396" role="img" aria-labelledby="title desc">
+  <title id="title">Joey King — Software Engineering, Automation, and Technical Delivery</title>
+  <desc id="desc">A dark navy banner with violet and teal accents and an abstract connected-systems pattern.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#0d1728"/>
+      <stop offset="1" stop-color="#16122b"/>
+    </linearGradient>
+    <radialGradient id="violetGlow" cx="78%" cy="42%" r="62%">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.24"/>
+      <stop offset="0.55" stop-color="#6d28d9" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#6d28d9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="tealGlow" cx="97%" cy="88%" r="50%">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#cbd5e1" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+  </defs>
+
+  <rect width="1584" height="396" rx="24" fill="url(#background)"/>
+  <rect width="1584" height="396" rx="24" fill="url(#grid)"/>
+  <rect width="1584" height="396" rx="24" fill="url(#violetGlow)"/>
+  <rect width="1584" height="396" rx="24" fill="url(#tealGlow)"/>
+
+  <g fill="none" stroke-linecap="round">
+    <path d="M1040 57C1150 83 1179 164 1288 171C1391 178 1434 109 1538 92" stroke="#a78bfa" stroke-opacity="0.28" stroke-width="2"/>
+    <path d="M1003 289C1120 246 1186 264 1281 317C1360 361 1454 327 1554 253" stroke="#2dd4bf" stroke-opacity="0.25" stroke-width="2"/>
+    <path d="M1129 24C1110 119 1162 207 1236 226C1323 249 1387 204 1437 128C1470 79 1511 57 1562 54" stroke="#64748b" stroke-opacity="0.18" stroke-width="1.5"/>
+    <path d="M936 190C1044 157 1107 178 1178 226C1274 292 1371 295 1558 200" stroke="#94a3b8" stroke-opacity="0.12" stroke-width="1.5"/>
+  </g>
+
+  <g>
+    <circle cx="1040" cy="57" r="5" fill="#a78bfa"/>
+    <circle cx="1288" cy="171" r="5" fill="#c4b5fd"/>
+    <circle cx="1538" cy="92" r="5" fill="#a78bfa"/>
+    <circle cx="1003" cy="289" r="5" fill="#2dd4bf"/>
+    <circle cx="1281" cy="317" r="5" fill="#5eead4"/>
+    <circle cx="1554" cy="253" r="5" fill="#2dd4bf"/>
+    <circle cx="1236" cy="226" r="4" fill="#94a3b8"/>
+    <circle cx="1437" cy="128" r="4" fill="#94a3b8"/>
+    <circle cx="1288" cy="171" r="16" fill="#a78bfa" fill-opacity="0.2" filter="url(#softGlow)"/>
+    <circle cx="1281" cy="317" r="16" fill="#2dd4bf" fill-opacity="0.18" filter="url(#softGlow)"/>
+  </g>
+
+  <g font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="96" y="93" fill="#94a3b8" font-size="18" font-weight="700" letter-spacing="5">BUILD  •  ALIGN  •  SHIP</text>
+    <text x="92" y="201" fill="#f8fafc" font-size="78" font-weight="720" letter-spacing="-2">Joey King</text>
+    <rect x="96" y="231" width="126" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="96" y="294" fill="#cbd5e1" font-size="27" font-weight="470" letter-spacing="0.4">Software Engineering  ·  Automation  ·  Technical Delivery</text>
+  </g>
+</svg>
