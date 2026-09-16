@@ -9,13 +9,6 @@ I build systems that turn ambiguous operational problems into reliable software 
 
 I am especially interested in work at the intersection of engineering, AI-assisted tooling, technical program management, and operations—where the job is not only to build the right system, but also to align the people and decisions required to ship it.
 
-## Selected impact
-
-* Led a first-place internal innovation project that used Go, ServiceNow, and GitLab workflows to automate vulnerability remediation while preserving approval and review controls.
-* Shipped Slack and email components for a production notification service designed to support software-delivery workflows across more than a dozen teams.
-* Built a FastAPI proof of concept that turned delivery data into actionable predictability, volatility, and cycle-time metrics.
-* Guided six engineering interns across two cohorts by setting priorities, reviewing merge requests, adjusting scope, and preparing teams for final presentations.
-
 ## Current focus
 
 * Agentic and AI-assisted developer tooling
