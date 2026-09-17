@@ -1,4 +1,4 @@
-[![Joey King — I build systems that make work better.](./images/profile-banner.svg)](https://joeylking.com/)
+[![Joey King — I build systems that make work better.](https://raw.githubusercontent.com/joeylking/joeylking/25b0d280904a093d3e426a276ad4e1a1b3810117/images/profile-banner.svg)](https://joeylking.com/)
 
 I build systems that turn ambiguous operational problems into reliable software and repeatable delivery. My background spans backend services, internal platforms, workflow automation, and cross-functional project leadership.
 
