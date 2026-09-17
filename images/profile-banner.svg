@@ -1,27 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1584" height="396" viewBox="0 0 1584 396" role="img" aria-labelledby="title desc">
   <title id="title">Joey King — I build systems that make work better.</title>
-  <desc id="desc">An off-white banner with ink typography, a cobalt accent, and three understated tracks aligning on the right. joeylking.com</desc>
-  <rect x="1" y="1" width="1582" height="394" rx="18" fill="#F6F7F9" stroke="#DFE4EB" stroke-width="2"/>
+  <desc id="desc">A cool charcoal banner with pale typography and peach, mint, and periwinkle tracks aligning on the right. joeylking.com</desc>
+  <rect x="1" y="1" width="1582" height="394" rx="18" fill="#0E131A" stroke="#27313D" stroke-width="2"/>
   <g font-family="Inter, 'Segoe UI', Arial, sans-serif">
-    <rect x="88" y="77" width="48" height="6" rx="3" fill="#365BD6"/>
-    <text x="84" y="174" fill="#202936" font-size="76" font-weight="700" letter-spacing="-2">Joey King</text>
-    <text x="88" y="237" fill="#202936" font-size="34" font-weight="400">I build systems that make work better.</text>
-    <text x="88" y="326" fill="#526173" font-size="23" font-weight="500">joeylking.com</text>
+    <rect x="88" y="77" width="48" height="6" rx="3" fill="#7CC6B2"/>
+    <text x="84" y="174" fill="#E7ECF2" font-size="76" font-weight="700" letter-spacing="-2">Joey King</text>
+    <text x="88" y="237" fill="#E7ECF2" font-size="34" font-weight="400">I build systems that make work better.</text>
+    <text x="88" y="326" fill="#98A3B1" font-size="23" font-weight="500">joeylking.com</text>
   </g>
   <g aria-hidden="true">
-    <g stroke="#E0E5ED" stroke-width="2">
+    <g stroke="#27313D" stroke-width="2">
       <path d="M1050 146H1488M1050 198H1488M1050 250H1488"/>
       <path d="M1370 102V292"/>
     </g>
-    <g fill="#B8C7ED">
-      <rect x="1060" y="136" width="108" height="20" rx="5"/>
-      <rect x="1130" y="188" width="108" height="20" rx="5"/>
-      <rect x="1200" y="240" width="108" height="20" rx="5"/>
+    <g opacity="0.35">
+      <rect x="1060" y="136" fill="#E3A77E" width="108" height="20" rx="5"/>
+      <rect x="1130" y="188" fill="#7CC6B2" width="108" height="20" rx="5"/>
+      <rect x="1200" y="240" fill="#9DB5F0" width="108" height="20" rx="5"/>
     </g>
-    <g fill="#365BD6">
-      <rect x="1370" y="136" width="118" height="20" rx="5"/>
-      <rect x="1370" y="188" width="118" height="20" rx="5"/>
-      <rect x="1370" y="240" width="118" height="20" rx="5"/>
+    <g>
+      <rect x="1370" y="136" fill="#E3A77E" width="118" height="20" rx="5"/>
+      <rect x="1370" y="188" fill="#7CC6B2" width="118" height="20" rx="5"/>
+      <rect x="1370" y="240" fill="#9DB5F0" width="118" height="20" rx="5"/>
     </g>
   </g>
 </svg>
