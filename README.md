@@ -1,4 +1,4 @@
-![Joey King — Software Engineering, Automation, and Technical Delivery](./images/profile-banner.svg)
+[![Joey King — I build systems that make work better.](./images/profile-banner.svg)](https://joeylking.com/)
 
 I build systems that turn ambiguous operational problems into reliable software and repeatable delivery. My background spans backend services, internal platforms, workflow automation, and cross-functional project leadership.
 
