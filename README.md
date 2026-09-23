@@ -1,4 +1,4 @@
-[![Joey King — From complex problems to working systems.](https://raw.githubusercontent.com/joeylking/joeylking/a558b3eb9f29c1767f9ccfcb28652fa19e67bf81/images/profile-banner.svg)](https://joeylking.com/)
+[![Joey King — From complex problems to working systems.](https://raw.githubusercontent.com/joeylking/joeylking/aab45e672174af7339a3b8f955a15bb3d288a523/images/profile-banner-animated.gif)](https://joeylking.com/)
 
 I build systems that turn ambiguous operational problems into reliable software and repeatable delivery. My background spans backend services, internal platforms, workflow automation, and cross-functional project leadership.
 
