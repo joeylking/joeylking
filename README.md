@@ -9,7 +9,7 @@ From 2022 through 2026, I worked as a Software Engineer at USAA. Most of that wo
 - Led a first-place internal innovation project that used Go, ServiceNow, and GitLab workflows to automate vulnerability remediation while preserving human review for noncritical changes.
 - Shipped Slack and email components for a production notification service spanning four delivery channels and designed to support software-delivery workflows across more than a dozen teams.
 - Built a FastAPI proof of concept that turned delivery data into predictability, volatility, and cycle-time metrics exposed through JSON and CSV endpoints.
-- Guided six engineering interns across two cohorts by setting priorities, reviewing merge requests, adjusting scope, and preparing teams for final presentations.
+- Guided engineering interns by setting priorities, reviewing merge requests, adjusting scope, and preparing teams for final presentations.
 
 ## Current focus
 
